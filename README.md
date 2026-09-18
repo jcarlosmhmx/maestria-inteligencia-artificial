@@ -4,7 +4,7 @@ Repositorio con material, tareas y proyectos de la maestría en Inteligencia Art
 
 ## Estructura
 
-- `apuntes/` — notas y resúmenes de clase
-- `tareas/` — tareas y ejercicios por materia
-- `proyectos/` — proyectos y trabajos finales
+- `notes/` — notas y resúmenes de clase
+- `assignments/` — tareas y ejercicios por materia
+- `projects/` — proyectos y trabajos finales
 - `papers/` — artículos y lecturas de referencia
